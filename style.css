@@ -1,0 +1,28 @@
+
+.heading
+{
+font-size: 23px;
+width: 25%;
+margin: 0px;
+}
+
+#status,#number_of_objects
+{
+font-size: 18px;
+}
+
+body{
+    background-image:url("background.jpg");
+    background-size: cover;
+    background-position:center ;
+    
+}
+
+canvas{
+    border: grey;
+    border-radius: 2px;
+    border-style:groove;
+    box-shadow: 5px 5px 10px grey;
+    position: sticky;
+    margin-top: 30px;
+}
